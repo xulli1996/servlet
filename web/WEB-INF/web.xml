@@ -6,7 +6,7 @@
     
     <servlet>
         <servlet-name>hello</servlet-name>
-        <servlet-class>cn.lxl.HelloServlet</servlet-class>
+        <servlet-class>cn.lxl.helloservlet.HelloServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>hello</servlet-name>
